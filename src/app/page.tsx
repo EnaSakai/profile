@@ -11,4 +11,4 @@ export default function Page() {
 			<Favorite name="佐藤璃果ちゃん" src="/images/S__46383168_0.jpg" alt="璃果ちゃんの画像" />
 		</div>
 	)
-}
+// }あいうえお
