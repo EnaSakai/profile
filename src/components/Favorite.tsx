@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 type FavoriteProps = {
     className?: string;
     name: string;
